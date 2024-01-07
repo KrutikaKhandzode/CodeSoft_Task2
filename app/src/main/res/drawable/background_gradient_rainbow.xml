@@ -1,0 +1,8 @@
+<!-- res/drawable/background_gradient_rainbow.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#ECAC4E"
+    android:centerColor="#FF7F00"
+    android:endColor="#FFFF00"
+    android:angle="45"/>
+</shape>
